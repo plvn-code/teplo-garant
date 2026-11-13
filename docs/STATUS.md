@@ -1,6 +1,6 @@
 # Status — started 2026-11-13
 
-Local: http://localhost:3014. No git / GitHub / Vercel yet — ask the user first.
+Local: http://localhost:3014. GitHub: https://github.com/plvn-code/teplo-garant (main), pushed 2026-11-13. No Vercel yet — ask the user first.
 
 ## Done
 Full shop in Ukrainian: intro, home (split hero with interior showcase, brand marquee, photo bento of 8 sections, manifest, pinned sale rail, power calculator, colour/finish block, popular models, white «Чому ми» block with numbers, brand wall, showroom band with 3D tour, real-review marquee, blog teaser), catalogue with filters (section, subtype, price, colour, connection, sale, stock, brand, search, sort — all in the URL, mobile sheet), 9 section pages, sale page, 15 brand pages, 284 product pages (gallery + lens, size variants, facts, specs, reviews, YouTube link, related), cart + checkout, ⌘K search, call-back / one-click modal, power calculator page, about, delivery & returns + FAQ, contacts with showrooms, blog (47 articles), 404, sitemap, robots, redirects from all old URLs. Checked at 1440 and 390 px: no horizontal scroll; lint + tsc clean.
